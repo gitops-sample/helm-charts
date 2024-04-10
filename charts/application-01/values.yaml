@@ -7,7 +7,7 @@ image:
   repository: ghcr.io/gitops-sample/application-01
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v0.0.1"
+  tag: "main-268b243efc2fe8342fedaff8ef64fc7819f0e42c"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
