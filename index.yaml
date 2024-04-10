@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   application-01:
   - apiVersion: v2
+    appVersion: v0.0.2
+    created: "2024-04-10T13:22:32.408614473Z"
+    description: A Helm chart for Kubernetes
+    digest: 19f1c430a2a8a5542ad338b88c315af30bb94933861b2f945213544f6e51ab99
+    name: application-01
+    type: application
+    urls:
+    - https://github.com/gitops-sample/helm-charts/releases/download/application-01-0.0.2/application-01-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
     appVersion: v0.0.1
     created: "2024-04-07T12:06:36.816996415Z"
     description: A Helm chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/gitops-sample/helm-charts/releases/download/application-01-0.0.1/application-01-0.0.1.tgz
     version: 0.0.1
-generated: "2024-04-07T12:06:36.817003999Z"
+generated: "2024-04-10T13:22:32.408631425Z"
